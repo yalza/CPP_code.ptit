@@ -1,0 +1,12 @@
+ type: programming
+  color: "#B9D9FF"
+  aliases:
+  - ags
+  extensions:
+  - ".asc"
+  - ".ash"
+  tm_scope: source.c++
+  ace_mode: c_cpp
+  codemirror_mode: clike
+  codemirror_mime_type: text/x-c++src
+  language_id: 2
